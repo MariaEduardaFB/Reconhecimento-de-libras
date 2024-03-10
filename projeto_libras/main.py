@@ -89,3 +89,11 @@ while True:
 # Liberação dos recursos utilizados
 cap.release()
 cv2.destroyAllWindows()
+
+# ACCURACY
+# Class A // Accuracy = 1.00 // Sample 28
+# Class B // Accuracy = 1.00 // Sample 28
+# Class C // Accuracy = 1.00 // Sample 27
+# Class C // Accuracy = 1.00 // Sample 26
+
+# Taxa de aprendizagem = 0,0001
